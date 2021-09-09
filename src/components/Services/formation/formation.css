@@ -1,0 +1,234 @@
+.back-for {
+    width: 100%;
+    height: 180px;
+    font-size: 35px;
+    background-color: #242327;
+    color: white;
+    text-align: center;
+}
+.back-for h1 {
+    position: relative;
+    top: 40px;
+}
+.ktiba p {
+position: relative;
+text-align: center;
+color: #5a5555;
+font-size: 30px;
+top: 20px;
+}
+.ktib2 {
+    position: relative;
+    left: 100px;
+    top: 40px;
+    line-height: 1.66666667;
+    font-size: 18px;
+    color: #5a5555;
+}
+.ktib-img {
+    position: relative;
+    border-radius: 50%;
+    background-color: #cdd0a2;
+    width: 250px;
+    height: 250px;
+    top: 180px;
+    left: 300px;
+}
+.ktib-img p {
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    color: #5a5555;
+    top: 100px;
+    left: 40px;
+    width: 180px;
+    height: 180px;
+}
+.train {
+    position: relative;
+    width: 500px;
+    height: 330px;
+    left: 360px;
+    bottom: 200px;
+}
+.faza {
+    position: relative;
+    text-align: center;
+    color: #5a5555;
+    font-size: 13px;
+    top: 220px;
+    left: 150px;
+    width: 500px;
+    line-height: 1.66666667;
+}
+.ktib3 {
+    position: relative;
+    width: 100%;
+    height: 140px;
+    top: 300px;
+    background-color: #d9d9d9;
+}
+
+.bton {
+    position: relative;
+    font-size: 12px;
+    border-radius: 20px ;
+    color: #555555;
+    background-color: #cdd0a2;
+    border: 28px solid #cdd0a2;
+    width: 180px;
+    left: 600px;
+    top: 60px;
+    height: 40px;
+    
+    
+}
+
+.bton:hover {
+    background-color: #bbbf80;
+    
+}
+.arrow {
+    position: relative;
+    left: 678px;
+    top: 25px;
+}
+.arrow i {
+    font-size: small;
+}
+.grid {
+    position: relative;
+    display: flex;
+    height: 220px;
+    color: #5a5555;
+    grid-row: 1;
+    margin: 12px;
+    top: 238px;
+  }
+  .tita {
+      position: relative;
+      top: 70px;
+  }
+  .item1 {
+      position: relative;
+      text-align: center;
+    background-color: white;
+    top: 50px;
+    width: 400px;
+  }
+  .item2 {
+      position: relative;
+      background-color: #bbbf80;
+      top: 50px;
+      width: 400px;
+      left: 20px;
+      text-align: center;
+  }
+  .item3 {
+      background-color: #b4bbb9;
+      position: relative;
+      width: 400px;
+      left: 20px;
+      top: 50px;
+  }
+  .item4 {
+      position: relative;
+      background-color: #242327;
+      width: 400px;
+      top: 50px;
+      left: 12px;
+  }
+  .titaa {
+      position: relative;
+      
+      top: 70px;
+      left: 25px;
+  }
+  .titaaa {
+      position: relative;
+      color: #ffffff;
+      left: 25px;
+      top: 70px;
+  }
+  .ktiba5 {
+      position: relative;
+      top: 330px;
+      font-size: 13px;
+      left: 550px;
+      color: #5a5555;
+  }
+  .ktib-img1{
+    position: relative;
+    border-radius: 50%;
+    background-color: #b4bbb9;
+    width: 250px;
+    height: 250px;
+    top: 450px;
+    left: 300px;
+}
+.ktib-img1 p {
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    color: #5a5555;
+    top: 100px;
+    left: 40px;
+    width: 180px;
+    height: 180px;
+}
+.entrop {
+    position: relative;
+    width: 500px;
+    height: 330px;
+    left: 360px;
+    bottom: 200px;
+}
+.faza2 {
+    position: relative;
+    text-align: center;
+    color: #5a5555;
+    font-size: 13px;
+    top: 490px;
+    left: 150px;
+    width: 500px;
+    line-height: 1.66666667;
+}
+
+    .grid2 {
+        position: relative;
+        display: flex;
+        height: 220px;
+        color: #5a5555;
+        grid-row: 1;
+        margin: 12px;
+        top: 500px;
+}
+.titaa1 {
+    position: relative;
+    
+    top: 70px;
+    left: 100px;
+}
+.titaa2 {
+    position: relative;
+    color: #ffffff;
+    left: 70px;
+    top: 70px;
+}
+.succes {
+    position: relative;
+    top: 230px;
+}
+.foot2 {
+    position: relative;
+    top: 260px;
+    
+}
+.ftt{
+    position: relative;
+    top: 270px;
+    width: 1333px;
+    height: 100px;
+    background-color: #242327;
+    color: white;
+}

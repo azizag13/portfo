@@ -1,0 +1,327 @@
+/* body{
+    color: #555555;
+    background-color: white;
+} */
+.box {
+    position: relative;
+  /*  background-image: url('../home/soo.jpg'); */
+   background: linear-gradient(#2626274d,rgba(39, 39, 39, 0.3)), url(./back1.jpg);
+    height: 109vh;
+    color: white;
+    background-attachment: fixed;
+    padding: 200px;
+     align-items: center;
+     bottom: 18px;
+     
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    opacity: 1;
+    
+}
+
+.h1 {
+    
+    font-size: 25px;
+    margin-top: 140px;
+    align-items: center;
+    height: 100px;
+
+}
+.flex-box {
+    padding: 200px;
+    margin-top: 100px;
+}
+.flex-container:hover{
+    transform: scale(1.1);
+}
+
+.flex-container
+{
+    display: flex;
+    padding: 10px;
+
+    
+}
+.flex-container > div {
+    
+    margin: 10px;
+    width: 170px;
+    padding: 70px;
+    font-size: 1.6rem;
+    line-height: 1.66666667;
+    transition: 0.3s;
+    animation: ease-in;
+    color: #9d7985;
+    
+  }
+  
+a {
+    text-decoration:none;
+    color: #9d7985;
+ }
+
+
+.tex {
+    text-align: center;
+    font-size: 30px;
+    color: #555555;
+}
+.dev {
+   background-color: khaki;
+   background-size: auto;
+   
+}
+.cowor{
+    background-color: #cdd0a2;
+}
+.start {
+    background-color: #b4bbb9;
+}
+.form {
+    background-color: #242327;
+}
+.part1 {
+    align-items: center;
+    height: 400px;
+    width: 450px;
+    margin: 40px;
+    padding: 130px;
+    word-spacing: 0.5em;
+    font-size: 18px;
+    line-height: 1.66666667;
+    color:  #555555;
+    
+}
+.photo  {
+    position: relative;
+    width: 450px;
+    left: 700px;
+    bottom:700px;
+}
+.photo2 {
+    position: relative;
+    width: 500px;
+    right: 300px;
+    top:   30px;
+    margin-bottom: 100px;
+    
+}
+.introoo2 {
+   
+    position: relative;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+    margin-left: 700px;
+    bottom: 600px;
+    width: 600px;
+    height: 500px;
+    word-spacing: 0.5em;
+    line-height: 1.66666667;
+    color:  #555555;
+
+}
+.p {
+    right: 400px;
+}
+.introoo2 h1 {
+    color: #555555;
+}
+ div.intro {
+     width: 600px;
+     position: relative;
+     text-align: left ;
+     right: 590px;
+     text-align: center;
+     top: 170px;
+     font-size: 18px;
+     color: solid #555555;
+     word-spacing: 0.3em;
+ }
+ .photo3 {
+     position: relative;
+     width: 500px;
+     left: 600px;
+     bottom: 350px;
+ }
+ .parag {
+     position: relative;
+     text-align: center;
+     right: 250px;
+     font-size: 0.75rem;
+     bottom: 150px;
+     color: #555555;
+     
+     
+ }
+ .test{
+     position: relative;
+     font-size: 1.4rem;
+     word-spacing: 0.1em;
+     width: 100%;
+     right: 80px;
+     color: #555555;
+ }
+ .test12 {
+     position: relative;
+     font-size: 12px;
+     color: #555555;
+     margin: 20px;
+     width: 250%;
+     right: 550px;
+     bottom: 40px;
+    
+ }
+ .card {
+     position: relative;
+     display: grid;
+     margin: 0.9rem;
+     grid-template-columns:  300px;
+     grid-template-rows: 210px 210px 80px;
+     grid-template-areas: "image" "text" "stats";
+     width: 300px;
+     height: 430px;
+     right:  550px;
+     bottom: 140px;
+     
+     border-radius:  18px;
+     background-color: white;
+     box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+     text-align: center;
+
+     transition: 0.5s ease;
+     cursor: pointer;
+ }
+ .card-image {
+     grid-area:  image;
+     background: url("net.jpg"); 
+     border-bottom-right-radius: 2px;
+     border-top-right-radius: 15px;
+     background-size: cover;
+ }
+ .card-deck {
+     display: flex;
+     
+ }
+ 
+ 
+ .card-text {
+     grid-area: text;
+     display: grid;
+     border-bottom-left-radius: 15px;
+     border-bottom-right-radius: 15px;
+     color: #555555;
+     margin: 25px;
+     
+     
+     
+ }
+ .per {
+     position: relative;
+     bottom:  50px;
+ }
+ .card-text .date {
+     color: rgb(255,7,110);
+     font-size: 13px;
+ }
+ .crad-text p {
+     position: relative;
+     color: grey;
+     font-size: 15px;
+     font-weight: 300;
+     top: 50px;
+     
+ }
+ .top {
+     position: relative;
+     bottom: 50px;
+ }
+ .card-text h2 {
+     margin-top: 0px;
+     font-size: 28px;
+ }
+ .card-stats {
+     grid-area: stats;
+ }
+ .card-link {
+     text-align: center;
+     
+ }
+ .link1{
+     position: relative;
+     right: 120px;
+     bottom: 50px;
+ }
+ .info {
+     position: relative;
+     left: 120px;
+     bottom: 80px;
+ }
+ .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .card-media ul {
+      position: absolute;
+      top: 90%;
+      left: 50%;
+      padding: 0;
+      margin: 0;
+      transform: translate(-50%, -50%);
+      display: flex;
+      }
+      .card-media ul li{
+          list-style: none;
+          margin: 0 -20px;
+
+      }
+     .card:hover {
+          transform: scale(1.2);
+          box-shadow: 5px 8px 15px rgba(0,0,0,0.6);
+      }
+      .spacee {
+          position: relative;
+          right: 15px;
+      }
+      .jj {
+          width: 300px;
+          height: 210px;
+      }
+      .location {
+          position: relative;
+          text-align: center;
+          right: 350px;
+          bottom: 100px;
+          color: #555555;
+          font-size: medium;
+      }
+      .fixe{
+          position: relative;
+          right: 35px;
+      }
+      .tells {
+          position: relative;
+          right: 35px;
+      }
+      .gps {
+          position: relative;
+          right: 40px;
+          width: 600px;
+          height: 450px;
+          border: 0;
+      }
+      .footer {
+          position: relative;
+          background-color: #b4bbb9;
+          margin-top: auto;
+       
+      }
+      .homie {
+          position: relative;
+          right: 702px;
+      }
+      

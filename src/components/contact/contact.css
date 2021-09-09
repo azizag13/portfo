@@ -1,0 +1,45 @@
+.contact p {
+    position: relative;
+    font-size: 14px;
+    width: 500px;
+    color: #555555;
+    left: 80px;
+}
+.docs {
+    position: relative;
+    left: 140px;
+}
+.sot {
+    position: relative;
+    bottom: 1420px;
+    color: #555555;
+    left: 820px;
+    font-size: 18px;
+}
+.sot p {
+    position: relative;
+    font-size: 12px;
+    width: 300px;
+    line-height: 2rem;
+}
+.sot i{
+    font-size: small;
+}
+.mark {
+    position: relative;
+    bottom: 119px;
+    left: 20px;
+}
+.phone {
+    position: relative;
+    top: 11px;
+}
+.locs {
+    position: relative;
+    bottom: 1500px;
+    left: 800px;
+}
+.gpss {
+    width: 500px;
+    height: 450px;
+}

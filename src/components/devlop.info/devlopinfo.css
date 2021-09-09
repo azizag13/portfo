@@ -1,0 +1,221 @@
+.devlopinfo{
+    position: relative;
+    background: linear-gradient(rgba(62, 62, 63, 0.3),rgba(77, 77, 78, 0.3)), url(./back2.jpg);
+    height: 80vh;
+    padding: 4px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    bottom: 20px;
+    
+}
+.aa {
+    position: relative;
+    top: 130px;
+    color: white;
+    font-size: 45px;
+}
+.text {
+    align-items: center;
+    text-align: center;
+}
+.introo {
+    position: relative;
+    top: 150px;
+    font-size: 18px;
+    color:  white;
+    line-height: 1.66666667;
+}
+.photo1 {
+    position: relative;
+    width: 500px;
+    height: 350px;
+    top: 400px;
+    left: 80px;
+}
+.presentation {
+position: relative;
+color: #555555;
+height: 100px;
+left: 600px;
+font-size: 18px;
+line-height: 1.66666667;
+padding: 20px;
+}
+.tt {
+    font-size: 1.2rem;
+    margin: 20px;
+    margin-right: 200px;
+    width: 450px;
+    height: 450px;
+}
+.prest2 { 
+ position: relative;
+ color: #555555;
+height: 80px;
+top: 480px;
+left: 70px;
+line-height: 1.66666667;
+padding: 20px;
+}
+.tt1 {
+    font-size: 1.2rem;
+    margin-left: 20px;
+    width: 500px;
+    height: 500px;
+    word-spacing: 0.5em;
+}
+
+.photoo2 {
+    position: relative;
+    width: 500px;
+    left: 650px;
+    margin-bottom: 750px;
+    top: 40px;
+}
+.tt2 {
+position: relative;
+bottom: 700px;
+
+}
+.plz {
+    position: relative;
+    width: 450px;
+    height: 450px;
+    bottom: 1350px;
+    
+}
+
+.intro3 {
+position: relative;
+height: 100px;
+left: 600px;
+font-size: 18px;
+line-height: 1.66666667;
+padding: 20px;
+bottom: 400px;
+}
+.parag3 {
+    position: relative;
+    bottom: 1400px;
+    right: 80px;
+    width: 500px;
+    height: 550px;
+}
+.text3 {
+    position: relative;
+    bottom: 1400px;
+}
+.photoo4 {
+    position: relative;
+    width: 450px;
+    height: 450px;
+    bottom: 1350px;
+}
+.FD {
+    position: relative;
+    align-items: center;
+    font-size: 18px;
+    height: 500px;
+    width: 650px;
+    line-height: 1.66666667;
+    text-align: center;
+    left: 430px;
+    bottom: 1900px;
+    margin: 70px;
+}
+.DM {
+    position: relative;
+    align-items: center;
+    font-size: 18px;
+    height: 450px;
+    width: 450px;
+    line-height: 1.66666667;
+    bottom: 1800px;
+}
+.photo5 {
+    position: relative;
+    width: 550px;
+    height: 550px;
+    left: 500px;
+    bottom: 2300px;
+}
+.photo6 {
+    position: relative;
+    width: 480px;
+    height: 450px;
+    right: 520px;
+    bottom: 1600px;
+}
+.decision {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    font-size: 18px;
+    line-height: 1.66666667;
+    align-items: center;
+    left: 600px;
+    bottom: 2300px;
+}
+.BG {
+    position: relative;
+    text-align: center;
+    background: linear-gradient(rgba(62, 62, 63, 0.3),rgba(77, 77, 78, 0.3)), url(./back33.jpg);
+    height: 80vh;
+    width: 700px;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    bottom: 1950px;
+
+    min-width: 100%;
+    min-height: 100%;
+    right: 80px;
+}
+.flex-border {
+    position: relative;
+    margin: 10px;
+    width: 380px;
+    height: 180px;
+    top: 70px;
+    left: 50px;
+    padding: 70px;
+    font-size: 25px;
+    line-height: 1.66666667;
+    transition: 0.3s;
+    animation: ease-in;
+    color: #9d7985;
+    background-color: white;
+}
+.flex-border:hover{
+    transform: scale(1.1);
+}
+.bord {
+    color: #555555;
+    font-size: 30px;
+}
+.btn {
+    position: relative;
+    right: 320px;
+    color: white;
+    background-color: violet;
+    font-size: 15px;
+}
+.btn:hover {
+    transform: scale(1.1);
+}
+.homies {
+    position: relative;
+    object-position: top;
+    top: 4770px;
+}
+.copiis {
+    position: relative;
+    color: #767b70;
+    font-size: 12px;
+    left: 70px;
+    top: 40px;
+}

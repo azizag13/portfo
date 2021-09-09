@@ -1,0 +1,362 @@
+.events {
+    position: relative;
+    background: linear-gradient(rgba(32, 32, 32, 0.3),rgba(20, 20, 20, 0.3)), url(./start.jpg);
+    height: 109vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.evenn {
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 150px;
+}
+.evenn h1 {
+    font-size: 62px;
+}
+.evenn p {
+    text-align: center; 
+    line-height: 1.66666667;
+    font-size: 18px;
+}
+.btnnn {
+    position: relative;
+    font-size: 12px;
+    border-radius: 20px;
+    color: #555555;
+    background-color: white;
+    border: 10px solid white;
+    top: 30px;
+}
+.btnnn:hover {
+    background-color: #bbbf80;
+    border-color: #bbbf80;
+}
+.tittr {
+    position: relative;
+    top: 400px;
+    left: 300px;
+    font-size: 15px;
+}
+.tittr h2 {
+    position: relative;
+    color: #555555;
+    left: 170px;
+    bottom: 40px;
+}
+.tittr h3 {
+    position: relative;
+    color: #777777;
+    bottom: 30px;
+}
+
+.flex-tab {
+    display: flex;
+    margin: 1.9rem;
+}
+
+
+.timee {
+position: relative; 
+text-align: center;
+width: 100px;
+height: 110px;
+background-color: black;
+color: white;
+bottom: 15px;
+}
+.timee ul {
+    position: relative;
+    top: 20px;
+}
+.items{
+
+    position: relative;
+    top: 400px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25); margin: 0px 0px 20px;; 
+    width: 380px;
+    height: 110px;
+    align-items: center;
+    margin: 25px;
+}
+ .items ul li {
+    list-style: none;
+}
+.day {
+    position: relative;
+    font-size: 40px;
+    bottom: 16px;
+    right: 18px;
+}
+.month {
+    position: relative;
+    font-size: 30px;
+    bottom: 20px;
+    right: 18px;
+}
+.time {
+    position: relative;
+    font-size: 12px;
+    bottom: 20px;
+    right: 18px;
+}
+.titlee ul li {
+    list-style: none;
+}
+
+.titlee p  {
+    position: relative;
+    bottom: 130px;
+    left: 15px;
+    font-size: 11px;
+    color: #555555;
+    text-align: center;
+}
+.titlee h3 {
+    position: relative;
+    color: #555555;
+    font-size: 12px;
+    text-align: center;
+    bottom: 125px;
+    right: 20px;
+}
+.infos {
+    position: relative;
+    bottom: 80px;
+    left: 70px;
+
+}
+  .inf {
+      position: relative;
+      right: 27px;
+  color: #343a40; font-size: 9px; font-weight: 300;
+  bottom: 45px;
+
+    
+} 
+.infos .fa {
+    font-size: 16px;
+    position: relative;
+    left: 38px;
+    
+}
+
+.icons {
+    position: relative;
+    left: 260px;
+    bottom: 276px;
+    font-size: 2px;
+    margin: 1.5rem;
+    width: min-content;
+    
+}
+.icons ul li {
+    list-style: none;
+    width: 150%;
+    padding: 0px;
+    float: center;
+     color: #343a40;
+      font-size: 8px;
+    font-weight: 300;
+    
+} 
+.icons ul {
+    font-size: 7px;
+    margin-left: 20px;
+    margin-top: 30px;   
+}
+.icons ul li a {
+    display: block;  
+    color: #343a40; 
+    text-decoration: none;
+    padding: 12px 0px 2px;
+    width: 100%;
+    font-size: 20px;
+     height: 50%;
+     
+}
+.icons > ul > li:hover > a {
+    color: white !important;
+}
+.icons > ul > li:hover {
+    color: #343a40;
+     background-color: #d9d9d9;
+}
+.icons .facebook a {
+    color: #4b6ea8 !important;
+}
+.icons .twitter a {
+    color: #4fd5f8 !important;
+}
+.icons .google a {
+    color: #dd4b39 !important;
+}
+.icons .facebook:hover a {
+    background-color: #4b6ea8 !important;
+}
+.icons .twitter:hover a {
+    background-color: #4fd5f8 !important;
+}
+.icons .google:hover a {
+    background-color: #dd4b39 !important;
+}
+.pp {
+    position: relative;
+    top: 370px;
+    left: 20px;
+    color: #555555;
+    font-size: 15px;
+    text-align: center;
+}
+.flexes {
+   position: relative;
+   display: flex;
+   margin: 5rem;
+   left: 25px;
+   bottom: 70px;
+   list-style: none;
+}
+.itemss {
+    position: relative;
+    top: 400px;
+    box-shadow: 5px 0px 20px rgba(0, 0, 0, 0.25); margin: 0px 0px 40px;; 
+    width: 600px;
+    height: 140px;
+    align-items: center;
+    margin: 25px;
+    list-style: none;
+}
+.img-fluid {
+    position: relative;
+    width: 25vh;
+    height: 21vh;
+    left: 100px;
+    bottom: 152px;
+}
+.timee ul li {
+    list-style: none;
+}
+.titleee {
+    position: relative;
+    bottom: 292px;
+    left: 270px;
+    font-size: 11px;
+}
+.timeee {
+    position: relative;
+    height: 137px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    bottom: 15px;
+}
+.timeee ul li {
+    position: relative;
+    top: 25px;
+    list-style: none;
+}
+.infoss {
+    position: relative;
+    bottom: 220px;
+    left: 240px;
+
+}
+  .inff {
+      position: relative;
+      right: 27px;
+  color: #343a40; font-size: 9px; font-weight: 300;
+  bottom: 45px;
+
+    
+} 
+.infoss .fa {
+    font-size: 16px;
+    position: relative;
+    left: 38px;
+    
+}
+.iconss {
+    position: relative;
+    left: 410px;
+    bottom: 440px;
+    font-size: 2px;
+    margin: 1.5rem;
+    width: min-content;
+    
+}
+.iconss ul li {
+    list-style: none;
+    width: 150%;
+    padding: 0px;
+    float: center;
+     color: #343a40;
+      font-size: 8px;
+    font-weight: 300;
+    
+} 
+.iconss ul {
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 30px;   
+}
+.iconss ul li a {
+    display: block;  
+    color: #343a40; 
+    text-decoration: none;
+    padding: 12px 0px 2px;
+    width: 100%;
+    font-size: 27px;
+     height: 50%;
+     
+}
+.iconss > ul > li:hover > a {
+    color: white !important;
+}
+.iconss > ul > li:hover {
+    color: #343a40;
+     background-color: #d9d9d9;
+}
+.iconss .facebook a {
+    color: #4b6ea8 !important;
+}
+.iconss .twitter a {
+    color: #4fd5f8 !important;
+}
+.iconss .google a {
+    color: #dd4b39 !important;
+}
+.iconss .facebook:hover a {
+    background-color: #4b6ea8 !important;
+}
+.iconss .twitter:hover a {
+    background-color: #4fd5f8 !important;
+}
+.iconss .google:hover a {
+    background-color: #dd4b39 !important;
+}
+.img-fluid .fa {
+    position: relative;
+    font-size: 70px;
+    color: #555555;
+    width: 100px;
+    height: 99px;
+    background-color: #cdd0a2;
+}
+.ft{
+    position: relative;
+    top: 270px;
+    width: 1340px;
+    height: 100px;
+    background-color: #242327;
+    color: white;
+}
+.copi{
+position: relative;
+    top: 35px;
+    left: 45px;
+    color:#7c7b7d;
+    font-size: 11px;
+}

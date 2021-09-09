@@ -1,0 +1,306 @@
+ .coworking{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgba(32, 32, 32, 0.3),rgba(20, 20, 20, 0.3)), url(./back1.jpg);
+    height: 140vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.cowork {
+    position: relative;
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 300px;
+}
+.cowork h1 {
+    font-size: 50px;
+}
+.cowork p {
+    text-align: center; 
+    line-height: 1.66666667;
+    font-size: 40px;
+}
+.nos-serv{
+    position: relative;
+    top: 570px;
+    left: 500px;
+    font-size: 35px;
+    color: #555555;
+}
+
+
+.flex-photoo {
+    position: relative;
+    bottom: 40px;
+    padding: 10px;
+    margin-right: 40px;
+    right: 350px;
+}
+.flex-photoo i {
+    margin: 3rem;
+    font-size: 50px;
+    background: #957985;
+    color: white;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+.namee {
+    position: relative;
+    padding-bottom: 0px !important;
+    text-align: center;
+    top: 300px;
+    font-size: 14px;
+    line-height: 1.677rem;
+    color: #555555;
+    
+    
+}
+
+
+.namee b {
+    position: relative;
+    text-align: center;
+    color: #555555;
+    bottom: 330px;
+    right:  90px;
+    margin: 3.9rem;
+    height: 50px;
+    font-size: x-small;
+    line-height: 1.677rem;
+}
+.ana {
+    position: relative;
+    right: 55px;
+}
+.kitchen {
+    position: relative;
+    right: 150px;
+}
+.ee{
+    position: relative;
+    left: 390px;
+    bottom: 28px;
+}
+.fi {
+    position: relative;
+    right:  260px;
+}
+.placee {
+    position: relative;
+    left: 10px;
+}
+.formi {
+    position: relative;
+    left: 45px;
+}
+.kitc {
+    position: relative;
+    right: 60px;
+}
+.fe {
+    position: relative;
+    right: 90px;
+}
+.eee {
+    position: relative;
+    right: 150px;
+    text-align: center;
+    align-items: center;
+    line-height: 0.5rem;
+    word-spacing: 0.1rem;
+}
+.partt2 {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    top: 1000px;
+    background-color: #bfbfbf;
+    text-align: center;
+    align-items: center;
+}
+ .partt2 h3 {
+     position: relative;
+     color: #555555;
+     font-size: 25px;
+     top: 30px;
+ }
+.partt2 p {
+    position: relative;
+    color: #555555;
+    top: 20px;
+
+}
+.flex-tabss {
+    position: relative;
+    display: flex;
+    margin: 5rem;
+    right:  9px;
+    bottom: 450px;
+    list-style: none;
+}
+ 
+
+ .itemm {
+     position: relative;
+     top: 400px;
+     box-shadow: 5px 0px 20px rgba(0, 0, 0, 0.25); margin: 0px 0px 40px;; 
+     background-color: white;
+     width: 600px;
+     height: 120px;
+     align-items: center;
+     margin: 25px;
+     list-style: none;
+     
+ }
+
+ .timeisit ul li {
+     list-style: none;
+ }
+ .titll {
+     position: relative;
+     bottom: 170px;
+     left: 60px;
+     font-size: 11px;
+     
+ }
+ .titll h3 {
+     position: relative;
+     right: 55px;
+     font-size: 14px;
+ }
+ .titll p {
+     position: relative;
+     left: 40px;
+     font-size: 15px;
+     width: 190px;
+ }
+ .timeisit{
+     position: relative;
+     height: 120px;
+     width: 100px;
+     background-color: black;
+     color: white;
+     bottom: 15px;
+ }
+ .timeisit ul li {
+     position: relative;
+     top: 25px;
+     list-style: none;
+ }
+ .infu {
+     position: relative;
+     bottom: 110px;
+     left: 25px;
+ 
+ }
+   .infx {
+       position: relative;
+       right: 27px;
+   color: #343a40; font-size: 9px; font-weight: 300;
+   bottom: 45px;
+ 
+     
+ } 
+ .infu .fa {
+     font-size: 16px;
+     position: relative;
+     left: 38px;
+     
+ }
+ .iconnn {
+     position: relative;
+     left: 220px;
+     bottom: 320px;
+     font-size: 2px;
+     margin: 1.5rem;
+     width: min-content;
+     
+ }
+ .iconnn ul li {
+     list-style: none;
+     width: 150%;
+     padding: 0px;
+     float: center;
+      color: #343a40;
+       font-size: 8px;
+     font-weight: 300;
+     
+ } 
+ .iconnn ul {
+     font-size: 10px;
+     margin-left: 20px;
+     margin-top: 30px;   
+ }
+ .iconnn ul li a {
+     display: block;  
+     color: #343a40; 
+     text-decoration: none;
+     padding: 12px 0px 2px;
+     width: 100%;
+     font-size: 27px;
+      height: 50%;
+      
+ }
+ .iconnn > ul > li:hover > a {
+     color: white !important;
+ }
+ .iconnn > ul > li:hover {
+     color: #343a40;
+      background-color: #d9d9d9;
+ }
+ .iconnn .facebook a {
+     color: #4b6ea8 !important;
+ }
+ .iconnn .twitter a {
+     color: #4fd5f8 !important;
+ }
+ .iconnn .google a {
+     color: #dd4b39 !important;
+ }
+ .iconnn .facebook:hover a {
+     background-color: #4b6ea8 !important;
+ }
+ .iconnn .twitter:hover a {
+     background-color: #4fd5f8 !important;
+ }
+ .iconnn .google:hover a {
+     background-color: #dd4b39 !important;
+ }
+ .locationn{
+     position: relative;
+     bottom: 97px;
+     left: 50px;
+     text-align: center;
+ }
+ .locationn h1 {
+     position: relative;
+     color: #555555;
+     font-size: 30px;
+     top: 30px;
+     right:  190px;
+ }
+ .mob{
+     position: relative;
+     right: 38px;
+ }
+ .feet{
+    position: relative;
+    width: 1340px;
+    height: 100px;
+    background-color: #242327;
+    color: white;
+}
+.copii{
+position: relative;
+    top: 35px;
+    right:  530px;
+    color:#7c7b7d;
+    font-size: 14px;
+}

@@ -1,0 +1,187 @@
+.startup {
+    position: relative;
+    background: linear-gradient(rgba(8, 8, 8, 0.3),rgba(8, 8, 8, 0.3)), url(./start.jpg);
+    width: 100%;
+    height: 1300px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.introo1{
+    position: relative;
+    align-items: center;
+    text-align: center;
+    top: 160px;
+    font-size: 35px;
+    color: white;
+}
+.titr{
+    position: relative;
+    font-size: 30px;
+    line-height: 1.66666667;
+}
+.tab {
+    position: relative;
+    top: 200px;
+    width: 1120px;
+    height: 600px;
+    left: 100px;
+    text-align: center;
+    font-weight: bold;
+    background-color: white;
+    color: #555555;
+    line-height: 1.66666667;
+    font-size: 18px;
+    opacity: 0.7;
+}
+.domaines {
+    position: relative;
+    text-align: center;
+    top: 380px;
+    color: #555555;
+    word-spacing: 10px;
+    
+
+}
+.flex-photo {
+    position: relative;
+    bottom: 40px;
+    padding: 20px;
+    margin-right: 20px;
+}
+.flex-photo i {
+    margin: 3rem;
+    font-size: 50px;
+    background: #957985;
+    color: white;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+.name {
+    position: relative;
+    text-align: center;
+    top: 300px;
+    font-size: small;
+    
+}
+
+.name a {
+    position: relative;
+    text-align: center;
+    color: black;
+    bottom: 20px;
+    margin: 3.9rem;
+}
+.analytic {
+position: relative;
+left: 30px;
+}
+.fintech {
+    position: relative;
+    right: 35px;
+}
+.edtech {
+    position: relative;
+    right: 15px;
+}
+.space {
+    position: relative;
+    display: flex;
+    text-align: center;
+    top: 480px;
+    line-height: 1.66666667;
+    font-size: 20px;
+    left: 10px;
+}
+.space h2 {
+    color: #555555;
+    font-size: 15px;
+}
+.space p {
+    font-size: 12px;
+}
+.transparent {
+    color:  rgba(0, 0, 0, 0.5);
+}
+.space > div {
+    margin: 1.5rem;
+    width: 330px;
+    height: 380px;
+    padding: 10px;
+}
+.expert {
+  position: relative;
+  background-color: #b4bbb9;
+  font-weight: lighter;
+  width: 500px;
+  height: 500px;
+  padding: 20px;
+  left: 40px;
+}
+.formationn {
+position: relative;
+left: 100px;
+}
+.bg1 {
+    position: relative;
+    background: linear-gradient(rgba(8, 8, 8, 0.3),rgba(8, 8, 8, 0.3)), url(./hands.jpg);
+    width: 190%;
+    height: 1760px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    top: 409px;
+
+}
+.bg1 h1 {
+    position: relative;
+    text-align: center;
+    color: white;
+    top: 50px;
+    padding: 40px;
+    border-radius: 2px 4px 2px;
+    border: 2px solid white;
+    width: 1050px;
+    height: 140px;
+    left: 100px;
+}
+.solid {
+    position: relative;
+    font-size: 70px;
+    top: 40px;
+}
+
+.border-b {
+    position: relative;
+    text-align: center;
+    background-color: white;
+    width: 1135px;
+    height: 1400px;
+    left: 100px;
+    top: 40px;
+} 
+
+
+.formm {
+    position: relative;
+    left: 60px;
+    top: 40px;
+}
+.foot{
+    position: relative;
+    top: 90px;
+    width: 1340px;
+    height: 80px;
+    background-color: #242327;
+    color: white;
+}
+.copyy{
+position: relative;
+    top: 35px;
+    left: 45px;
+    color:#7c7b7d;
+    font-size: 11px;
+}

@@ -1,0 +1,88 @@
+.serventreprise {
+    position: relative;
+    background: linear-gradient(rgba(32, 32, 32, 0.3),rgba(20, 20, 20, 0.3)), url(./do.jpg);
+    width: 100%;
+    height: 340px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.servv {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    top: 100px;
+    color: white;
+}
+.btn2 {
+    position: relative;
+    bottom: 40px;
+}
+.head {
+    position: relative;
+    top: 250px;
+    left: 90px;
+}
+.head h2 {
+    font-size: 18px;
+    color: #555555;
+}
+.head p {
+    font-size: 13px;
+    color: #cdd0a2;
+}
+.boxx {
+    position: relative;
+    top: 220px;
+    left: 190px;
+}
+.boxx i {
+    position: relative;
+    border-radius: 50%;
+    background-color: #cdd0a2;
+    width: 45px;
+    height: 40px;
+    right: 100px;
+    top: 120px;
+}
+.esee {
+    color: #555555;
+}
+.esee p {
+      width: 450px;
+      line-height: 1.66666667;
+      font-size: 12px;
+}
+.boxx2  {
+    position: relative;
+    bottom: 90px;
+}
+.boxx3 {
+    position: relative;
+    bottom: 170px;
+}
+.boxi {
+    position: relative;
+    left: 800px;
+    bottom: 440px;
+}
+.boxi i {
+    position: relative;
+    top: 115px;
+    right: 100px;
+    color: #555555;
+}
+.boxx4 {
+    position: relative;
+    bottom: 70px;
+}
+.boxx5 {
+    position: relative;
+    bottom: 145px;
+}
+.foot13 {
+    position:absolute;
+   top: 1000px;
+    
+}
